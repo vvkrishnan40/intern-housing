@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport"  content="width=device-width, initial-scale=1">
+<link rel="stylesheet"  href="https://www.w3schools.com/w3css/3/w3.css">
+<body>
+
+<div class="header">
+  <h1>Hard-Working Housing</h1>
+  <p>This page contains the main map of locations</p>
+</div>
+
+.header {
+    padding: 80px; /* some padding */
+      text-align: center; /* center the text */
+    background: #306EFF;   /* blue background */
+      color: white; /* white text color */
+}
+
+/* Increase the font size of the <h1> element */
+  .header h1 {
+    font-size: 40px;
+}
+
+<div class="footer">
+  <h2>Footer</h2>
+</div>
+
+.footer {
+    padding: 20px; /* Some padding */
+      text-align: center; /* Center text*/
+    background: #ddd;   /* Grey background */
+}
+
+</body>
+</html> 
